@@ -1,4 +1,4 @@
-``` {figure} figures/bannerIL3Boekenwand.jpg
+``` {figure} figures/bannerIL3boekenwand.jpg
 ---
 width: 50%
 name: fig_banner
