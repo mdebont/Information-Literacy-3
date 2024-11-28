@@ -10,3 +10,4 @@ parts:
     - file: references.md
     - file: changelog.md
     - file: credits.md
+    - file: some_content/nieuwe pagina
